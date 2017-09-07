@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+  <descriptif lang="fr">
+    <titre>Fondy</titre>
+    <chapo></chapo>
+    <description>Module de paiement Fondy.</description>
+    <postscriptum></postscriptum>
+  </descriptif>
+  <version>1.0</version>
+  <auteur>
+    <nom>DM</nom>
+    <societe></societe>
+    <email></email>
+    <web></web>
+  </auteur>
+  <type>classique</type>
+  <prerequis/>
+  <thelia>1.5.0</thelia>
+  <etat>production</etat>
+  <documentation>Readme.txt</documentation>
+  <urlmiseajour></urlmiseajour>
+</plugin>
